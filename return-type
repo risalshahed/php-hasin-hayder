@@ -1,0 +1,7 @@
+<?php
+function addition(int $a,int $b,int $c):int {
+  // echo $a + $b + $c; seshe function er return type
+  return $a + $b + $c;
+}
+
+echo addition(13,14,15);
